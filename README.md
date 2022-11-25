@@ -5,7 +5,7 @@ In this repository I'm going to put some of Best public datasets for practicing 
 | Dataset| Dataset Name | Description | Sample |
 | :---:   | :---: | :---: | :---: |
 | Dataset01 | Coffee And Code | This dataset provides information about coffee lovers and code developers | [Sample](https://github.com/zahrabakhshandeh/datasets#coffee-and-code-dataset)|
-| Dataset01 | Pima Indians Diabetes| Predict the onset of diabetes | [Sample](https://github.com/zahrabakhshandeh/datasets#pima-indians-diabetes-dataset)
+| Dataset02 | Pima Indians Diabetes| Predict the onset of diabetes | [Sample](https://github.com/zahrabakhshandeh/datasets#pima-indians-diabetes-dataset)
 | Dataset03 | Palmer Penguin| palmer penguin data set used for multi-class classification | [Sample](https://github.com/zahrabakhshandeh/datasets#palmer-penguin-dataset) 
 
 # Coffee And Code Dataset
