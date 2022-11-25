@@ -15,4 +15,4 @@ In this repository I'm going to put some of Best public datasets for practicing 
 ![Screenshot from 2022-11-25 19-46-30](https://user-images.githubusercontent.com/24417383/204027566-c843dc3b-d7f4-4791-b5fd-20d8aae45d77.png)
 
 # Palmer Penguin Dataset
-![Screenshot from 2022-11-25 19-46-30](https://user-images.githubusercontent.com/24417383/204027566-c843dc3b-d7f4-4791-b5fd-20d8aae45d77.png)
+![Screenshot from 2022-11-25 19-46-30](https://user-images.githubusercontent.com/24417383/204034251-ba0c7fc4-fdae-467c-8c1d-3cb56295882c.png)
